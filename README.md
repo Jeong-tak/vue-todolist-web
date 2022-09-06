@@ -1,2 +1,2 @@
-# vue-todo-web
+# vue-todolist-web
 TodoList made with VueJs
